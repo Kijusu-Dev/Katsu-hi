@@ -20,5 +20,5 @@
 									 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-![c H 9c 968 SS 0000 8th LANDINGPAGEGRAPHIC 1905X420 v2](https://user-images.githubusercontent.com/75220799/127653335-8f4ac113-4a6f-41f3-8ee7-cc03e23cafd8.jpg)
+[![GitHub followers](https://img.shields.io/github/followers/BeowolfK?label=Follow&color=blueviolet&style=flat-square&logo=GitHub)](https://github.com/BeowolfK/?tab=follow)
 
