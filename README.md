@@ -17,7 +17,10 @@
 							
 						     Hésite pas à me follow !
 							  Bandes de bg !
-									 
+							
+							[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kijusu-Dev&layout=compact)](https://github.com/Kijusu-Dev/github-readme-stats)
+							
+							
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 [![GitHub followers](https://img.shields.io/github/followers/Kijusu-Dev?label=Follow&color=blueviolet&style=flat-square&logo=GitHub)](https://github.com/Kijusu-Dev/?tab=follow)
