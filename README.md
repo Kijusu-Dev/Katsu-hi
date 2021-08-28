@@ -1,7 +1,7 @@
 							     🌴 • Hey !
 
 				  Moi c'est Maxence, passionné par l'informatique depuis petit !
-				       J'essaye de m'améliorer et de partager mes projet ! 
+				       J'essaye de m'améliorer et de partager mes projets ! 
 
 
 						  ╭━━━━━━━━━━━━━━━━━━━━━━━━━━╮
@@ -15,7 +15,7 @@
 						  ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 							
 							
-						     Hésite pas à me follow !
+						     N'hésitez pas à me follow !
 							  Bandes de bg !
 							
 							
