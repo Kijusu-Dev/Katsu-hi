@@ -1,6 +1,6 @@
 							     🌴 • Hey !
 
-				  Moi c'est Katsu'hi, passionné par l'informatique depuis petit !
+				  Moi c'est Maxence Rémy, passionné par l'informatique depuis petit !
 				       J'essaye de m'améliorer et de partager mes projet ! 
 
 
