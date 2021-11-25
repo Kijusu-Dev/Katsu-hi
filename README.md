@@ -4,7 +4,7 @@ Moi c'est Maxence, passionné par l'informatique depuis petit !
     J'essaye de m'améliorer et de partager mes projets ! 
 
 
-╭━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+╭━━━━━━━━━━━━━━━━━╮
 
    💻 • Développeur Python, JS
 
@@ -12,7 +12,7 @@ Moi c'est Maxence, passionné par l'informatique depuis petit !
 
    📱 • Réseaux
 
-╰━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+╰━━━━━━━━━━━━━━━━━╯
 
 
 N'hésitez pas à me follow !
