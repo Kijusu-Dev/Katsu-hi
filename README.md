@@ -21,4 +21,4 @@ Bandes de bg !
 ![MaxenceR26](https://komarev.com/ghpvc/?username=MaxenceR26&color=blueviolet&style=flat-square)
 
 ![MaxenceR26's github stats](https://github-readme-stats.vercel.app/api?username=MaxenceR26&show_icons=true&hide_border=true&theme=radical&cache_seconds=1800&include_all_commits=true&count_private=true&line_height=24px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceR26&layout=compact&theme=blue&cache_seconds=1800&langs_count=1000&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceR26&layout=compact&theme=transparent&cache_seconds=1800&langs_count=1000&hide_border=true)
