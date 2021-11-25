@@ -1,22 +1,22 @@
-🌴 • Hey !
+							       🌴 • Hey !
 
-Moi c'est Maxence, passionné par l'informatique depuis petit !
-    J'essaye de m'améliorer et de partager mes projets ! 
-
-
-╭━━━━━━━━━━━━━━━━━╮
-
-   💻 • Développeur Python, JS
-
-   ⌨️ • Cybersécurité
-
-   📱 • Réseaux
-
-╰━━━━━━━━━━━━━━━━━╯
+					Moi c'est Maxence, passionné par l'informatique depuis petit !
+					    J'essaye de m'améliorer et de partager mes projets ! 
 
 
-N'hésitez pas à me follow !
-  Bandes de bg !
+							╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
+
+							   💻 • Développeur Python, JS
+
+							   ⌨️ • Cybersécurité
+
+							   📱 • Réseaux
+
+							╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+
+
+							N'hésitez pas à me follow !
+							      Bandes de bg !
 
 							
 							
