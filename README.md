@@ -13,9 +13,7 @@
 N'hésitez pas à me follow !
 Bandes de bg !
 
-							
-							
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 [![GitHub followers](https://img.shields.io/github/followers/KijusuDev?label=Follow&color=dark&style=square&logo=GitHub)](https://github.com/KijusuDev/?tab=follow)
 
