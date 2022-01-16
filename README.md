@@ -2,7 +2,7 @@
 
 ---
 
-💻 • Développeur Python, JS
+💻 • Développeur Python, JS, Java
 
 ⌨️ • Cybersécurité
 
