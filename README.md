@@ -1,19 +1,4 @@
-🌴 • Hey !
-
----
-
-💻 • Développeur Python, JS, Java
-
-⌨️ • Cybersécurité
-
-📱 • Réseaux
-
----
-
-N'hésitez pas à me follow !
-Bandes de bg !
-
----
+![WProfile](https://usefull-api.herokuapp.com/WProfile/MaxenceR26/Python,%20Java,%20Js/Je%20suis%20%C3%A2g%C3%A9%20de%2017%20ans,%20je%20suis%20passionn%C3%A9%20par%20l'informatique%20depuis%20petit)
 
 [![GitHub followers](https://img.shields.io/github/followers/MaxenceR26?label=Follow&color=dark&style=square&logo=GitHub)](https://github.com/MaxenceR26/?tab=follow)
 
