@@ -2,7 +2,7 @@
   
 > <img src="https://readme-typing-svg.herokuapp.com/?size=21&color=75D3FF&width=408&height=59&lines=Python,+Dart,+Flutter+<3"/>
   
-## 🔥 Streak stats
+## 🔥 Statistiques
 
 <table>
   <tr>
