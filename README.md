@@ -1,7 +1,4 @@
-![WProfile](https://usefull-api.herokuapp.com/WProfile/MaxenceR26/Python,%20Java,%20Js/Je%20suis%20%C3%A2g%C3%A9%20de%2017%20ans,%20je%20suis%20pas-sionn%C3%A9%20par%20l%27informatique%20depuis%20%20petit)
-![IZIAPI](https://iziapi.herokuapp.com/api/image/MaxenceR26)
-  
-> <img src="https://readme-typing-svg.herokuapp.com/?size=21&color=75D3FF&width=408&height=59&lines=Python,+Dart,+Flutter+<3"/>
+> <img src="https://readme-typing-svg.herokuapp.com/?size=21&color=75D3FF&width=408&height=59&lines=Python,+JS,+ElectronJS+<3"/>
   
 ## 🔥 Statistiques
 
@@ -18,6 +15,4 @@
     </td>
   </tr>
 </table>
-
-### Tu souhaites une image de présentation comme moi ? Rends-toi sur : <img src="https://readme-typing-svg.herokuapp.com/?size=21&color=75D3FF&width=408&height=49&lines=https://www.wprofile.cf/"/>
  
